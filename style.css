@@ -1,0 +1,61 @@
+body {
+	text-align: center;
+	font-family: "Georgia", Times, Serif;
+	font-size: 18px;
+	line-height: 150%;
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	color: #fff;
+	padding: 40px;
+	font-size: 48px;
+	background-color: #00bcd4;
+}
+
+h2 {
+	font-size: 32px;
+	padding: 40px;
+	background-color: #fff;
+}
+
+h3 {
+	text-align: left;
+	font-size: 22px;
+	margin-bottom: 20px;
+}
+
+p {
+	margin-top: 10px;
+	text-indent: 50px;
+	text-align: left;
+}
+
+.main_body {
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.basic_info {
+	width: 50%;
+	float: left;
+}
+
+.image {
+	width: 40%;
+	float: right;
+}
+
+.list {
+	text-align: left;
+}
+
+.fit {
+	max-height: 80%;
+	max-width: 80%;
+	padding: 0;
+	margin-bottom: none;
+}
